@@ -23,6 +23,7 @@
           <url>jdbc:mysql://127.0.0.1:3306/pf-mailler</url>
           <user>pfernand</user>
           <password>pfernand</password>
+          <schemas>pf-mailler</schemas>
         </configuration>
         <dependencies>
           <dependency>
